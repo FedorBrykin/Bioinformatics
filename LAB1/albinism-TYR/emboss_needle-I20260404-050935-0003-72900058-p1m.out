@@ -1,0 +1,85 @@
+########################################
+# Program: needle
+# Rundate: Sat  4 Apr 2026 05:09:38
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20260404-050935-0003-72900058-p1m.asequence
+#    -bsequence emboss_needle-I20260404-050935-0003-72900058-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NP_000363.1
+# 2: NP_035791.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 533
+# Identity:     457/533 (85.7%)
+# Similarity:   491/533 (92.1%)
+# Gaps:           4/533 ( 0.8%)
+# Score: 2544.0
+# 
+#
+#=======================================
+
+NP_000363.1        1 MLLAVLYCLLWSFQTSAGHFPRACVSSKNLMEKECCPPWSGDRSPCGQLS     50
+                     |.||||||||||||.|.|||||||.|||||:.|||||||.||.|||||||
+NP_035791.1        1 MFLAVLYCLLWSFQISDGHFPRACASSKNLLAKECCPPWMGDGSPCGQLS     50
+
+NP_000363.1       51 GRGSCQNILLSNAPLGPQFPFTGVDDRESWPSVFYNRTCQCSGNFMGFNC    100
+                     ||||||:||||:||.||||||.||||||||||||||||||||||||||||
+NP_035791.1       51 GRGSCQDILLSSAPSGPQFPFKGVDDRESWPSVFYNRTCQCSGNFMGFNC    100
+
+NP_000363.1      101 GNCKFGFWGPNCTERRLLVRRNIFDLSAPEKDKFFAYLTLAKHTISSDYV    150
+                     |||||||.||||||:|:|:||||||||..||:|||:|||||||||||.||
+NP_035791.1      101 GNCKFGFGGPNCTEKRVLIRRNIFDLSVSEKNKFFSYLTLAKHTISSVYV    150
+
+NP_000363.1      151 IPIGTYGQMKNGSTPMFNDINIYDLFVWMHYYVSMDALLGGSEIWRDIDF    200
+                     ||.||||||.||||||||||||||||||||||||.|.|||||||||||||
+NP_035791.1      151 IPTGTYGQMNNGSTPMFNDINIYDLFVWMHYYVSRDTLLGGSEIWRDIDF    200
+
+NP_000363.1      201 AHEAPAFLPWHRLFLLRWEQEIQKLTGDENFTIPYWDWRDAEKCDICTDE    250
+                     |||||.||||||||||.|||||::||||||||:|||||||||.|||||||
+NP_035791.1      201 AHEAPGFLPWHRLFLLLWEQEIRELTGDENFTVPYWDWRDAENCDICTDE    250
+
+NP_000363.1      251 YMGGQHPTNPNLLSPASFFSSWQIVCSRLEEYNSHQSLCNGTPEGPLRRN    300
+                     |:||:||.||||||||||||||||:|||.|||||||.||:|||||||.||
+NP_035791.1      251 YLGGRHPENPNLLSPASFFSSWQIICSRSEEYNSHQVLCDGTPEGPLLRN    300
+
+NP_000363.1      301 PGNHDKSRTPRLPSSADVEFCLSLTQYESGSMDKAANFSFRNTLEGFASP    350
+                     ||||||::|||||||||||||||||||||||||:.|||||||||||||||
+NP_035791.1      301 PGNHDKAKTPRLPSSADVEFCLSLTQYESGSMDRTANFSFRNTLEGFASP    350
+
+NP_000363.1      351 LTGIADASQSSMHNALHIYMNGTMSQVQGSANDPIFLLHHAFVDSIFEQW    400
+                     ||||||.|||||||||||:|||||||||||||||||||||||||||||||
+NP_035791.1      351 LTGIADPSQSSMHNALHIFMNGTMSQVQGSANDPIFLLHHAFVDSIFEQW    400
+
+NP_000363.1      401 LRRHRPLQEVYPEANAPIGHNRESYMVPFIPLYRNGDFFISSKDLGYDYS    450
+                     |||||||.||||||||||||||:|||||||||||||||||:|||||||||
+NP_035791.1      401 LRRHRPLLEVYPEANAPIGHNRDSYMVPFIPLYRNGDFFITSKDLGYDYS    450
+
+NP_000363.1      451 YLQDSDPDSFQDYIKSYLEQASRIWSWLLGAAMVGAVLTALLAGLVSLLC    500
+                     |||:|||..:::||:.|||||||||.||||||:||||:.|.|:||.|.||
+NP_035791.1      451 YLQESDPGFYRNYIEPYLEQASRIWPWLLGAALVGAVIAAALSGLSSRLC    500
+
+NP_000363.1      501 ---RHKRKQLPEEKQPLLMEKEDYHS-LYQSHL    529
+                        :.|:||..||:|||||:|:|||| ||||||
+NP_035791.1      501 LQKKKKKKQPQEERQPLLMDKDDYHSLLYQSHL    533
+
+
+#---------------------------------------
+#---------------------------------------
