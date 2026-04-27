@@ -25,21 +25,21 @@ TP53 — ген-супрессор опухолей, кодирующий тра
 
 ## 3. Таблица гомологичных генов
 
-| # | Accession | Gene Symbol | Вид (латынь) | Вид (русский) | Таксон | % идент. | E-value |
-|---|-----------|-------------|--------------|---------------|--------|----------|---------|
-| 1 | NP_000537.3 | TP53 | *Homo sapiens* | Человек разумный | Приматы (Primates) | — (запрос) | — |
-| 2 | NP_001040616.1 | TP53 | *Macaca mulatta* | Макак-резус | Приматы (Primates) | 95.7% | 0.0 |
-| 3 | NP_035770.2 | Trp53 | *Mus musculus* | Домовая мышь | Грызуны (Rodentia) | 77.4% | 0.0 |
-| 4 | XP_005999862.1 | TP53 | *Latimeria chalumnae* | Латимерия западная | Целаканты (Coelacanthiformes) | 50.6% | 1e-126 |
-| 5 | XP_006038716.1 | TP53 | *Alligator sinensis* | Китайский аллигатор | Крокодилы (Crocodylia) | 53.4% | 3e-124 |
-| 6 | XP_037743179.1 | TP53 | *Chelonia mydas* | Зелёная черепаха | Черепахи (Testudines) | 49.8% | 3e-122 |
-| 7 | NP_001118164.1 | tp53 | *Oncorhynchus mykiss* | Радужная форель | Лососёвые (Salmonidae) | 49.9% | 4e-122 |
-| 8 | XP_069501469.1 | tp53 | *Ambystoma mexicanum* | Аксолотль | Амбистомовые (Ambystomatidae) | 52.5% | 2e-121 |
-| 9 | XP_068785617.1 | TP53 | *Struthio camelus* | Африканский страус | Страусообразные (Struthioniformes) | 55.4% | 2e-120 |
-| 10 | XP_035289593.1 | tp53 | *Anguilla anguilla* | Европейский угорь | Угреобразные (Anguilliformes) | 48.8% | 2e-118 |
-| 11 | XP_041034951.1 | TP53 | *Carcharodon carcharias* | Большая белая акула | Ламнообразные (Lamniformes) | 48.5% | 3e-118 |
-| 12 | XP_064357136.1 | TP53 | *Dromaius novaehollandiae* | Эму | Казуарообразные (Casuariiformes) | 53.8% | 5e-117 |
-| 13 | NP_001081567.1 | tp53 | *Xenopus laevis* | Шпорцевая лягушка | Пипообразные (Pipidae) | 51.3% | 8e-117 |
+| # | Gene Symbol | Вид (латынь) | Вид (русский) |
+|---|-------------|--------------|---------------|
+| 1 | TP53 | *Homo sapiens* | Человек разумный |
+| 2 | TP53 | *Macaca mulatta* | Макак-резус |
+| 3 | Trp53 | *Mus musculus* | Домовая мышь |
+| 4 | TP53 | *Latimeria chalumnae* | Латимерия западная |
+| 5 | TP53 | *Alligator sinensis* | Китайский аллигатор |
+| 6 | TP53 | *Chelonia mydas* | Зелёная черепаха | Черепахи (Testudines) |
+| 7 | tp53 | *Oncorhynchus mykiss* | Радужная форель |
+| 8 | tp53 | *Ambystoma mexicanum* | Аксолотль |
+| 9 | TP53 | *Struthio camelus* | Африканский страус |
+| 10 | tp53 | *Anguilla anguilla* | Европейский угорь |
+| 11 | TP53 | *Carcharodon carcharias* | Большая белая акула |
+| 12 | TP53 | *Dromaius novaehollandiae* | Эму |
+| 13 | tp53 | *Xenopus laevis* | Шпорцевая лягушка |
 
 ---
 
