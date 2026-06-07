@@ -11,12 +11,12 @@
 │   ├── pipeline.py                    # Пайплайн на Prefect
 │   ├── hello_world.py                 # Hello world на Prefect
 │   └── hello_world.log                # Логирование Hello world
-├── results/
-│   ├── flagstat.txt                   # Результат samtools flagstat
-│   ├── pipeline_run.log               # Лог пайплайна
-│   └── fastqc/
-│       └── QC-report_SRR2584863.html  # QC-отчёт FastQC
-└── dag_visualization.png              # Визуализация DAG из Prefect UI
+└── results/
+    ├── flagstat.txt                   # Результат samtools flagstat
+    ├── pipeline_run.log               # Лог пайплайна
+    ├── fastqc/
+    │   └── QC-report_SRR2584863.html  # QC-отчёт FastQC
+    └── dag_visualization.png          # Визуализация DAG из Prefect UI
 ```
 
 ---
