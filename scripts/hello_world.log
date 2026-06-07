@@ -1,0 +1,8 @@
+19:38:17.205 | INFO    | Flow run 'sly-manul' - Beginning flow run 'sly-manul' for flow 'Hello World'
+19:38:17.212 | INFO    | Flow run 'sly-manul' - View at https://app.prefect.cloud/account/07f8f0e4-7cf7-4926-8d57-15936627c820/workspace/6bd84a48-74a4-46eb-979b-2bf70ee3f882/runs/flow-run/06a25663-8d7e-730a-8000-d28c4aca6e9e
+19:38:17.224 | INFO    | Task run 'say_world-93a' - Finished in state Completed()
+19:38:17.227 | INFO    | Task run 'say_hello-4e3' - Finished in state Completed()
+19:38:18.220 | INFO    | Flow run 'sly-manul' - Finished in state Completed()
+Hello, World!
+Hello, Prefect!
+19:38:18.227 | WARNING | EventsWorker - Still processing items: 6 items remaining...
