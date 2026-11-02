@@ -1,0 +1,35 @@
+{
+ "VEP_endpoint": "https://rest.ensembl.org/vep/human/region",
+ "VEP_params": {
+  "canonical": 1,
+  "mane": 1,
+  "hgvs": 1,
+  "protein": 1,
+  "symbol": 1,
+  "variant_class": 1,
+  "biotype": 1,
+  "numbers": 1,
+  "domains": 0,
+  "check_existing": 1,
+  "af": 1,
+  "af_1kg": 1,
+  "af_gnomadg": 1,
+  "af_gnomade": 1,
+  "appris": 1,
+  "tsl": 1,
+  "uniprot": 0,
+  "pick": 0
+ },
+ "assembly": "GRCh38",
+ "transcript_rule": "Меньше = лучше. Правило выбора транскрипта (см. отчёт):\nсреди транскриптов с самым тяжёлым последствием по варианту:\nMANE Select > MANE Plus Clinical > canonical > protein_coding > остальные.",
+ "gnomAD": {
+  "endpoint": "https://gnomad.broadinstitute.org/api",
+  "dataset": "gnomad_r4"
+ },
+ "ClinVar": {
+  "endpoint": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/",
+  "db": "clinvar",
+  "search": "rsID[RS], иначе chr+CHRPOS38"
+ },
+ "date": "2026-11-02"
+}
