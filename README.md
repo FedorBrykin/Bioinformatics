@@ -1,5 +1,6 @@
 # ДЗ №4.
 
+## Ссылка на отчёт : https://github.com/FedorBrykin/Bioinformatics/blob/HW4/report.md
 ## Структура ветки
 | Файл | Что из себя представляет |
 |---|---|
